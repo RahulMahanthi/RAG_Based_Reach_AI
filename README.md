@@ -48,8 +48,6 @@ $ streamlit run app.py
 2. Ask questions related to the uploaded document.
 3. The AI will provide relevant responses based on the document's content.
 
-## 📷 Screenshots
-![Screenshot](screenshot.png)
 
 ## 🔧 Configuration
 - Update `EMBEDDING_MODEL` and `LANGUAGE_MODEL` in `app.py` to change AI models.
